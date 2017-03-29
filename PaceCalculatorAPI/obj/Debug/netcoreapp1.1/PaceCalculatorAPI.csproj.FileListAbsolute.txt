@@ -1,0 +1,9 @@
+D:\git\PaceCalculator\PaceCalculatorAPI\bin\Debug\netcoreapp1.1\PaceCalculatorAPI.deps.json
+D:\git\PaceCalculator\PaceCalculatorAPI\bin\Debug\netcoreapp1.1\PaceCalculatorAPI.runtimeconfig.json
+D:\git\PaceCalculator\PaceCalculatorAPI\bin\Debug\netcoreapp1.1\PaceCalculatorAPI.runtimeconfig.dev.json
+D:\git\PaceCalculator\PaceCalculatorAPI\bin\Debug\netcoreapp1.1\PaceCalculatorAPI.dll
+D:\git\PaceCalculator\PaceCalculatorAPI\bin\Debug\netcoreapp1.1\PaceCalculatorAPI.pdb
+D:\git\PaceCalculator\PaceCalculatorAPI\obj\Debug\netcoreapp1.1\PaceCalculatorAPI.AssemblyInfo.cs
+D:\git\PaceCalculator\PaceCalculatorAPI\obj\Debug\netcoreapp1.1\PaceCalculatorAPI.dll
+D:\git\PaceCalculator\PaceCalculatorAPI\obj\Debug\netcoreapp1.1\PaceCalculatorAPI.pdb
+D:\git\PaceCalculator\PaceCalculatorAPI\obj\Debug\netcoreapp1.1\PaceCalculatorAPI.csprojResolveAssemblyReference.cache
